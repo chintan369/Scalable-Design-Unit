@@ -1,0 +1,2 @@
+include ':app', ':sdunits'
+rootProject.name='Scalable Design Unit'
